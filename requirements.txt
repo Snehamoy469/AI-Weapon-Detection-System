@@ -1,0 +1,29 @@
+# Vigilant Eye - Surveillance Dashboard Requirements
+# Generated from surveillance_dashboard.py imports
+
+# Core dependencies
+customtkinter>=5.2.0
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+Pillow>=10.0.0
+numpy>=1.24.0
+setuptools>=68.0.0,<81
+
+# Optional: GPU support (uncomment if using CUDA)
+# torch>=2.0.0
+
+# Optional: Text-to-speech (keep commented if not needed)
+# pyttsx3>=2.90
+
+# Built-in modules (no installation needed):
+# - tkinter (tk)
+# - threading
+# - time
+# - os, sys, io, json, csv, math
+# - collections
+# - urllib.request
+# - datetime
+# - queue
+#
+# Windows-only (built-in):
+# - winsound
